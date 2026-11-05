@@ -1,0 +1,30 @@
+ body{background-color: lavender;}
+ h1{color:purple;
+	 font-family:Arial;}
+ h2{color: indigo;
+ font-family: Georgia}
+ div{background-color: lightyellow;}
+ .destaque{background-color: mistyrose;
+ margin:20px;}
+ 
+ /*
+ 1. Desafio Técnico:
+Tive alguma dificuldade em alterar a cor de fundo
+da página, porque o CSS não estava a funcionar.
+Verifiquei o código e percebi que faltava
+a ligação ao ficheiro estilos.css no HTML.
+Depois consegui corrigir e tudo funcionou corretamente.
+
+2. Correção de Sintaxe:
+Um dos erros que cometi foi esquecer-me do
+sinal de igual (=) no atributo src da imagem.
+Por isso, a imagem não aparecia no site.
+Voltei ao HTM e corrigi o erro. 
+Depois a imagem apareceu.
+
+3. Autoria:
+O atributo src serve para indicar onde está guardado
+o ficheiro que queremos mostrar na página.
+No meu trabalho, utilizei o src para colocar
+uma imagem da série Friends no site.
+*/
